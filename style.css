@@ -65,7 +65,7 @@
 }
 #home::before{
     content: "";
-    background: url("../foodimage.jpg") no-repeat center center /cover;
+    background: url("foodimage.jpg") no-repeat center center /cover;
     position: absolute;
     width: 100%;
     height: 100%;
@@ -112,7 +112,7 @@
 }
 .clients-container::before{
     content: "";
-    background: url("../foodbackground.jpg") no-repeat center center/cover;
+    background: url("foodbackground.jpg") no-repeat center center/cover;
     position: absolute;
     width: 100%;
     height: 300px;
@@ -162,7 +162,7 @@
 
 .support-container::before{
     content: "";
-    background: url("../costomercare.jpg") no-repeat center center/cover;
+    background: url("costomercare.jpg") no-repeat center center/cover;
     position: absolute;
     width: 100%;
     height: 100%;
